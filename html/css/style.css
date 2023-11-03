@@ -485,25 +485,25 @@ body {
     float: left;
     font-size: 18px;
     color: #ffffff;
-    background-color: #fb8a05;
+    background-color: #ff2f82;
     text-align: center;
     padding: 8px 10px;
 }
 
 .read_bt a:hover {
-    background-color: #b538a4;
+    background-color: #f379aa;
     color: #ffffff;
 }
 
-.abiut_images_main {
+.about_images_main {
     width: 100%;
-    float: left;
+    /*float: left;*/
     padding-left: 100px;
 }
 
 img.image_1 {
-    width: 50%;
-    float: right;
+    width: 100%;
+    /*float: right;*/
     position: relative;
 }
 
