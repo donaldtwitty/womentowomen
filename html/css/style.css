@@ -226,7 +226,7 @@ button {
     background-image: url(../images/women03.jpg);
     height: 550px;
     background-size: 100%;
-    opacity: 0.85;
+    opacity: 0.80;
 }
 
 .logo {
@@ -266,10 +266,10 @@ button {
 }
 
 .banner_text {
-    width: 49%;
+    width: 100%;
     float: left;
-    font-size: 18px;
-    color: grey;
+    font-size: 20px;
+    color: #ea749f;
     margin: 0px;
 }
 
@@ -456,7 +456,7 @@ body {
     float: left;
     font-size: 40px;
     color: #ffffff;
-    background-color: #b538a4;
+    background-color: #ff2f82;
     height: auto;
     padding: 0px 37px;
     border-top-left-radius: 40px;
