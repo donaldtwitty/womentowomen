@@ -78,11 +78,14 @@ h1 {
 }
 
 h2 {
-    font-size: 20px
+    font-size: 20px;
+    text-align: center;
+    /*color: #ff2f82;*/
 }
 
 h3 {
-    font-size: 18px
+    font-size: 18px;
+    text-align: center;
 }
 
 h4 {
@@ -95,6 +98,10 @@ h5 {
 
 h6 {
     font-size: 13px
+}
+
+strong {
+    color: #ff2f82;
 }
 
 *,
