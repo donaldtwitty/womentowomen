@@ -78,7 +78,7 @@ h1 {
 }
 
 h2 {
-    font-size: 22px
+    font-size: 20px
 }
 
 h3 {
@@ -466,13 +466,23 @@ body {
     margin-left: 30px;
 }
 
-.about_text {
+.about_text_home {
     width: 80%;
     float: left;
     font-size: 16px;
     color: #3f3f3f;
     /*margin: 0px;*/
     /*padding-top: 40px;*/
+    margin-left: 80px;
+}
+
+.about_text {
+    width: 80%;
+    float: left;
+    font-size: 16px;
+    color: #3f3f3f;
+    /*margin: 0px;*/
+    padding-top: 40px;
     margin-left: 80px;
 }
 
