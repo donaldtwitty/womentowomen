@@ -455,7 +455,7 @@ body {
 .about_taital_main {
     width: 100%;
     float: left;
-    padding-top: 25px;
+    /*padding-top: 25px;*/
 }
 
 .about_taital {
@@ -484,7 +484,7 @@ body {
 }
 
 .about_text {
-    width: 80%;
+    width: 90%;
     float: left;
     font-size: 16px;
     color: #3f3f3f;
@@ -644,14 +644,14 @@ img.image_3 {
 /* marriage section end */
 
 
-/* blog section start */
+/* events section start */
 
-.blog_section {
+.event_section {
     width: 100%;
     float: left;
 }
 
-.blog_taital {
+.event_taital {
     width: 100%;
     float: left;
     font-size: 30px;
@@ -661,7 +661,7 @@ img.image_3 {
     text-transform: uppercase;
 }
 
-.blog_text {
+.event_text {
     width: 100%;
     font-size: 16px;
     color: #000;
@@ -669,7 +669,7 @@ img.image_3 {
     margin: 0px;
 }
 
-.blog_section_2 {
+.event_section_2 {
     width: 100%;
     background-color: #ffffff;
     height: auto;
@@ -790,7 +790,7 @@ img.image_3 {
 }
 
 
-/* blog section end */
+/* events section end */
 
 
 /* contact srction start */
