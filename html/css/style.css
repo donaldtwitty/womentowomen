@@ -223,10 +223,10 @@ button {
 .header_section {
     width: 100%;
     float: left;
-    background-image: url(../images/women-data-gap-gender-development-matters.webp);
-    height: auto;
+    background-image: url(../images/women03.jpg);
+    height: 550px;
     background-size: 100%;
-    opacity: 0.75;
+    opacity: 0.85;
 }
 
 .logo {
