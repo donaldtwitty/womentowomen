@@ -449,7 +449,7 @@ body {
 .about_section {
     width: 100%;
     float: left;
-    padding-bottom: 90px;
+    /*padding-bottom: 90px;*/
 }
 
 .about_taital_main {
