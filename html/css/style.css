@@ -683,7 +683,7 @@ img.image_3 {
 }
 
 .event_section_2 {
-    width: 100%;
+    width: 57%;
     background-color: #ffffff;
     height: auto;
     padding: 0px 50px 50px 0px;
@@ -693,7 +693,7 @@ img.image_3 {
 
 .date_text {
     width: 60px;
-    font-size: 15px;
+    font-size: 14px;
     color: #ffffff;
     background-color: #ff2f82;
     padding: 10px;
