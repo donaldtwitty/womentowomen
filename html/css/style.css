@@ -572,59 +572,59 @@ img.image_3 {
 
 /* marriage section start */
 
-.marriage_section {
+.event_section {
     width: 100%;
     float: left;
-    background: linear-gradient(to right, #693dab, #cd29a2);
+    background: linear-gradient(to right, #ff2f82, #f379aa);
     padding-bottom: 90px;
 }
 
-.marriage_img {
-    width: 100%;
-    float: left;
-}
+/*.marriage_img {*/
+/*    width: 100%;*/
+/*    float: left;*/
+/*}*/
 
 .padding_left_0 {
     padding-left: 0px;
 }
 
-.marriage_taital_main {
-    width: 80%;
-    float: left;
-}
+/*.marriage_taital_main {*/
+/*    width: 80%;*/
+/*    float: left;*/
+/*}*/
 
-.marriage_taital {
-    width: 100%;
-    float: left;
-    font-size: 28px;
-    color: #ffffff;
-    font-weight: bold;
-    text-transform: uppercase;
-}
+/*.marriage_taital {*/
+/*    width: 100%;*/
+/*    float: left;*/
+/*    font-size: 28px;*/
+/*    color: #ffffff;*/
+/*    font-weight: bold;*/
+/*    text-transform: uppercase;*/
+/*}*/
 
-.marriage_text {
-    width: 100%;
-    float: left;
-    font-size: 16px;
-    color: #ffffff;
-    margin: 0px;
-}
+/*.marriage_text {*/
+/*    width: 100%;*/
+/*    float: left;*/
+/*    font-size: 16px;*/
+/*    color: #ffffff;*/
+/*    margin: 0px;*/
+/*}*/
 
-.marriage_section_2 {
-    width: 100%;
-    float: left;
-    padding-top: 0px;
-}
+/*.marriage_section_2 {*/
+/*    width: 100%;*/
+/*    float: left;*/
+/*    padding-top: 0px;*/
+/*}*/
 
-.marriage_taital_left {
-    width: 30%;
-    float: left;
-}
+/*.marriage_taital_left {*/
+/*    width: 30%;*/
+/*    float: left;*/
+/*}*/
 
-.marriage_taital_right {
-    width: 70%;
-    float: left;
-}
+/*.marriage_taital_right {*/
+/*    width: 70%;*/
+/*    float: left;*/
+/*}*/
 
 .car_image {
     text-align: center;
@@ -664,14 +664,9 @@ img.image_3 {
 
 /* events section start */
 
-.event_section {
-    width: 100%;
-    float: left;
-}
-
 .event_taital {
     width: 100%;
-    float: left;
+    /*float: left;*/
     font-size: 30px;
     color: #0b0b0b;
     text-align: center;
@@ -700,7 +695,7 @@ img.image_3 {
     width: 60px;
     font-size: 15px;
     color: #ffffff;
-    background-color: #fb8a05;
+    background-color: #ff2f82;
     padding: 10px;
     text-align: center;
     text-transform: uppercase;
@@ -723,7 +718,7 @@ img.image_3 {
     width: 100%;
     float: left;
     font-size: 20px;
-    color: #252525;
+    color: #ff2f82;
     font-weight: bold;
     padding-top: 100px;
     font-family: 'Raleway', sans-serif;
