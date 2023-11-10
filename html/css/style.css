@@ -881,6 +881,11 @@ img.image_3 {
     color: #ffffff;
 }
 
+iframe {
+    frameborder: 5px;
+    marginheight: 1;
+    marginwidth: 1;
+}
 
 /* contact section end */
 
