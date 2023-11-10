@@ -664,6 +664,25 @@ img.image_3 {
 
 /* events section start */
 
+.typed {
+    font-size: 40px;
+    color: #ff2f82;
+}
+
+.event_h2 {
+    font-size: 40px;
+}
+
+.event_title {
+    width: 100%;
+    /*float: left;*/
+    font-size: 50px;
+    color: #363434;
+    text-align: center;
+    /*font-weight: bold;*/
+    text-transform: uppercase;
+}
+
 .event_taital {
     width: 100%;
     /*float: left;*/
