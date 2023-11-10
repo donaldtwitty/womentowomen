@@ -1,3 +1,4 @@
+
 (function () {
     "use strict";
 
@@ -17,4 +18,4 @@
             backDelay: 2000
         });
     }
-});
+})();
