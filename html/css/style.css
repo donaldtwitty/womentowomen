@@ -912,6 +912,10 @@ iframe {
     justify-content: center;
 }
 
+.event_container {
+    padding-bottom: 90px;
+}
+
 /* contact section end */
 
 /* news section start */
