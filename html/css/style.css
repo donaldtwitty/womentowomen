@@ -809,12 +809,13 @@ img.image_3 {
 /* events section end */
 
 
-/* contact srction start */
+/* contact section start */
 
 .contact_section {
     width: 100%;
     float: left;
     padding-bottom: 90px;
+    margin: 0 auto;
 }
 
 .contact_taital {
@@ -887,8 +888,12 @@ iframe {
     marginwidth: 1;
 }
 
-/* contact section end */
+.container_register {
+    display: flex;
+    justify-content: center;
+}
 
+/* contact section end */
 
 /* news section start */
 
