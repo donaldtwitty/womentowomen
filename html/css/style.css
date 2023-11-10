@@ -259,7 +259,7 @@ a,
     width: 100%;
     float: left;
     font-size: 70px;
-    color: #ff2f82;
+    color: #ffffff;
     /*font-weight: bold;*/
     text-transform: uppercase;
 }
@@ -268,7 +268,7 @@ a,
     width: 100%;
     float: left;
     font-size: 20px;
-    color: #ea749f;
+    color: #ffffff;
     margin: 0px;
 }
 
@@ -507,8 +507,8 @@ body {
 .read_bt {
     width: 190px;
     float: left;
-    /*margin-top: 40px;*/
-    margin-left: 80px;
+    margin-left: 38%;
+    margin-top: 20px;
 }
 
 .read_bt a {
@@ -665,6 +665,13 @@ img.image_3 {
     margin: 0 auto;
 }
 
+@media only screen and (max-width: 767px) {
+    .event_section_2 {
+        width: 100%;
+        padding: 0 20px 20px;
+    }
+}
+
 .date_text {
     width: 60px;
     font-size: 14px;
@@ -687,6 +694,15 @@ img.image_3 {
     padding-left: 50px;
     }
 
+@media only screen and (max-width: 767px) {
+    .image_4 {
+        padding-left: 0;
+    }
+    .image_4 img {
+        width: 100%;
+        height: auto;
+    }
+}
 
 .liya_text {
     width: 100%;
