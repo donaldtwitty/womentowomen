@@ -412,8 +412,8 @@ img.image_3 {
 }
 
 .paypal_icon {
-    height: 50px;
-    width: 50px;
+    height: 80px;
+    width: 80px;
     display: flex;
     justify-content: center;
     margin: 0 75px;
