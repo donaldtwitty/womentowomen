@@ -1,6 +1,5 @@
 /*--------------------------------------------------------------------- File Name: style.css ---------------------------------------------------------------------*/
 
-
 /*--------------------------------------------------------------------- import Fonts ---------------------------------------------------------------------*/
 
 @import url('https://fonts.googleapis.com/css?family=Rajdhani:300,400,500,600,700');
@@ -9,7 +8,6 @@
 /*****---------------------------------------- 1) font-family: 'Rajdhani', sans-serif;
  2) font-family: 'Poppins', sans-serif;
  ----------------------------------------*****/
-
 
 /*--------------------------------------------------------------------- import Files ---------------------------------------------------------------------*/
 
@@ -141,22 +139,22 @@ a {
 }
 
 a,
-/*.btn {*/
-/*    text-decoration: none !important;*/
-/*    outline: none !important;*/
-/*    -webkit-transition: all .3s ease-in-out;*/
-/*    -moz-transition: all .3s ease-in-out;*/
-/*    -ms-transition: all .3s ease-in-out;*/
-/*    -o-transition: all .3s ease-in-out;*/
-/*    transition: all .3s ease-in-out;*/
-/*}*/
+    /*.btn {*/
+    /*    text-decoration: none !important;*/
+    /*    outline: none !important;*/
+    /*    -webkit-transition: all .3s ease-in-out;*/
+    /*    -moz-transition: all .3s ease-in-out;*/
+    /*    -ms-transition: all .3s ease-in-out;*/
+    /*    -o-transition: all .3s ease-in-out;*/
+    /*    transition: all .3s ease-in-out;*/
+    /*}*/
 
-/*img {*/
-/*    max-width: 100%;*/
-/*    height: auto;*/
-/*}*/
+    /*img {*/
+    /*    max-width: 100%;*/
+    /*    height: auto;*/
+    /*}*/
 
- :focus {
+:focus {
     outline: 0;
 }
 
@@ -362,7 +360,7 @@ body {
 /*.slide-wrapper*/
 /*.container */
 {
-    /*padding: 0;*/
+/*padding: 0;*/
 }
 
 
@@ -692,12 +690,13 @@ img.image_3 {
     position: relative;
     top: -10px;
     padding-left: 50px;
-    }
+}
 
 @media only screen and (max-width: 767px) {
     .image_4 {
         padding-left: 0;
     }
+
     .image_4 img {
         width: 100%;
         height: auto;
@@ -795,6 +794,29 @@ img.image_3 {
 
 /* events section end */
 
+/* payment section start */
+
+.payment_container {
+    /*display: flex;*/
+    justify-content: center;
+    align-items: center;
+}
+
+.paypal_icon {
+    height: 50px;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.cashapp_icon {
+    height: 50px;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+/* payment section end */
 
 /* contact section start */
 
