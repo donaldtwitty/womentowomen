@@ -411,6 +411,13 @@ img.image_3 {
     align-items: center;
 }
 
+.payment_container_2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 250px;
+}
+
 .paypal_icon {
     height: 80px;
     width: 80px;
@@ -424,7 +431,7 @@ img.image_3 {
     width: 50px;
     display: flex;
     justify-content: center;
-    margin: 0 75px;
+    margin: 0 175px;
 }
 
 /* payment section end */
