@@ -415,23 +415,28 @@ img.image_3 {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-bottom: 250px;
 }
 
 .paypal_icon {
-    height: 80px;
-    width: 80px;
     display: flex;
     justify-content: center;
-    margin: 0 75px;
+    margin: 0 50px;
 }
 
 .cashapp_icon {
-    height: 50px;
-    width: 50px;
     display: flex;
     justify-content: center;
-    margin: 0 175px;
+    margin: 0 50px;
+}
+
+.paypal_img {
+    height: 300px;
+    width: auto;
+}
+
+.cashapp_img {
+    height: 255px;
+    width: auto;
 }
 
 /* payment section end */
