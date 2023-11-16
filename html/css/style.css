@@ -208,22 +208,22 @@ body {
 }
 
 .about_text {
-    width: 90%;
+    width: 100%;
     float: left;
     font-size: 16px;
     color: #3f3f3f;
-    padding-top: 40px;
-    margin-left: 80px;
+    padding-top: 20px;
+    /*margin-left: 80px;*/
 }
 
 .about_text_felicia {
-    width: 50%;
+    width: 100%;
     float: left;
     font-size: 16px;
     color: #3f3f3f;
-    margin-left: 80px;
-    margin-right: 200px;
-    padding-top: 70px;
+    /*margin-left: 80px;*/
+    /*margin-right: 200px;*/
+    padding-top: 20px;
 }
 
 .about_image {
@@ -235,6 +235,12 @@ body {
     width: auto;
     border: 5px solid #ff2f82;
     margin-top: 70px;
+}
+
+@media (min-width: 450px) and (max-width: 767px) {
+    .felicia_about_img {
+        width: 100%;
+    }
 }
 
 .read_bt {
