@@ -150,7 +150,6 @@ a,
     float: left;
     font-size: 70px;
     color: #ffffff;
-    /*font-weight: bold;*/
     text-transform: uppercase;
 }
 
@@ -179,7 +178,6 @@ body {
 .about_taital_main {
     width: 100%;
     float: left;
-    /*padding-top: 25px;*/
 }
 
 .about_taital {
@@ -202,8 +200,6 @@ body {
     float: left;
     font-size: 16px;
     color: #3f3f3f;
-    /*margin: 0px;*/
-    /*padding-top: 40px;*/
     margin-left: 80px;
 }
 
@@ -221,8 +217,6 @@ body {
     float: left;
     font-size: 16px;
     color: #3f3f3f;
-    /*margin-left: 80px;*/
-    /*margin-right: 200px;*/
     padding-top: 20px;
 }
 
